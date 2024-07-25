@@ -1,2 +1,2 @@
 # cucumberTest
-Studying about cucumber BDD framework with selenium for form submit
+Studying about cucumber with selenium for form submit
